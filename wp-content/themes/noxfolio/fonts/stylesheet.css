@@ -1,0 +1,120 @@
+@font-face {
+    font-family: 'Ebisu';
+    src: url('./Ebisu.eot');
+    src: local('Ebisu'),
+        url('./Ebisu.eot#iefix') format('embedded-opentype'),
+        url('./Ebisu.woff2') format('woff2'),
+        url('./Ebisu.woff') format('woff'),
+        url('./Ebisu.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ebisu';
+    src: url('./Ebisu-Black.eot');
+    src: local('Ebisu Black'), local('Ebisu-Black'),
+        url('./Ebisu-Black.eot#iefix') format('embedded-opentype'),
+        url('./Ebisu-Black.woff2') format('woff2'),
+        url('./Ebisu-Black.woff') format('woff'),
+        url('./Ebisu-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ebisu';
+    src: url('./Ebisu-RegularOblique.eot');
+    src: local('Ebisu Regular Oblique'), local('Ebisu-RegularOblique'),
+        url('./Ebisu-RegularOblique.eot#iefix') format('embedded-opentype'),
+        url('./Ebisu-RegularOblique.woff2') format('woff2'),
+        url('./Ebisu-RegularOblique.woff') format('woff'),
+        url('./Ebisu-RegularOblique.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ebisu';
+    src: url('./Ebisu-Light.eot');
+    src: local('Ebisu Light'), local('Ebisu-Light'),
+        url('./Ebisu-Light.eot#iefix') format('embedded-opentype'),
+        url('./Ebisu-Light.woff2') format('woff2'),
+        url('./Ebisu-Light.woff') format('woff'),
+        url('./Ebisu-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ebisu';
+    src: url('./Ebisu-ExtraLight.eot');
+    src: local('Ebisu ExtraLight'), local('Ebisu-ExtraLight'),
+        url('./Ebisu-ExtraLight.eot#iefix') format('embedded-opentype'),
+        url('./Ebisu-ExtraLight.woff2') format('woff2'),
+        url('./Ebisu-ExtraLight.woff') format('woff'),
+        url('./Ebisu-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ebisu';
+    src: url('./Ebisu-ExtraLightOblique.eot');
+    src: local('Ebisu ExtraLight Oblique'), local('Ebisu-ExtraLightOblique'),
+        url('./Ebisu-ExtraLightOblique.eot#iefix') format('embedded-opentype'),
+        url('./Ebisu-ExtraLightOblique.woff2') format('woff2'),
+        url('./Ebisu-ExtraLightOblique.woff') format('woff'),
+        url('./Ebisu-ExtraLightOblique.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ebisu';
+    src: url('./Ebisu-BoldOblique.eot');
+    src: local('Ebisu Bold Oblique'), local('Ebisu-BoldOblique'),
+        url('./Ebisu-BoldOblique.eot#iefix') format('embedded-opentype'),
+        url('./Ebisu-BoldOblique.woff2') format('woff2'),
+        url('./Ebisu-BoldOblique.woff') format('woff'),
+        url('./Ebisu-BoldOblique.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ebisu';
+    src: url('./Ebisu-Bold.eot');
+    src: local('Ebisu Bold'), local('Ebisu-Bold'),
+        url('./Ebisu-Bold.eot#iefix') format('embedded-opentype'),
+        url('./Ebisu-Bold.woff2') format('woff2'),
+        url('./Ebisu-Bold.woff') format('woff'),
+        url('./Ebisu-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ebisu';
+    src: url('./Ebisu-BlackOblique.eot');
+    src: local('Ebisu Black Oblique'), local('Ebisu-BlackOblique'),
+        url('./Ebisu-BlackOblique.eot#iefix') format('embedded-opentype'),
+        url('./Ebisu-BlackOblique.woff2') format('woff2'),
+        url('./Ebisu-BlackOblique.woff') format('woff'),
+        url('./Ebisu-BlackOblique.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ebisu';
+    src: url('./Ebisu-LightOblique.eot');
+    src: local('Ebisu Light Oblique'), local('Ebisu-LightOblique'),
+        url('./Ebisu-LightOblique.eot#iefix') format('embedded-opentype'),
+        url('./Ebisu-LightOblique.woff2') format('woff2'),
+        url('./Ebisu-LightOblique.woff') format('woff'),
+        url('./Ebisu-LightOblique.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
